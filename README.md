@@ -8,6 +8,3 @@
 
 ## Requirements
 - python3
-
-## Usage
-
