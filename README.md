@@ -12,7 +12,7 @@
      - DataPreparation_Phase_(Section_1).ipynb
      - DataPreparation_Phase_(Section_2).ipynb
      - DataPreparation_Phase_(Section_3).ipynb
-  4. EDA Phase
+  4. Exploratory Data Analysis Phase
      - EDA_Phase_(Section_1).ipynb
      - EDA_Phase_(Section_2).ipynb
   5. Setup, Modeling And Evaluation Phase
