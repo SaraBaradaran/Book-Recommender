@@ -8,9 +8,15 @@
 #Phases
   1. Data Understanding Phase
      - DataUnderstanding_OveralStatistics_Phase.ipynb
-  2. Data Preparation Phase (DataPreparation_Phase_(Section_1).ipynb , DataPreration_Phase_(Section_2).ipynb , DataPreparation_Phase_(Section_3).ipynb)
-  4. EDA Phase (EDA_Phase_(Section_1).ipynb, EDA_Phase_(Section_2).ipynb)
-  5. Setup, Modeling And Evaluation Phase (Setup_and_Modeling_and_Evaluation_Phase.ipynb)
+  2. Data Preparation Phase 
+     - DataPreparation_Phase_(Section_1).ipynb
+     - DataPreparation_Phase_(Section_2).ipynb
+     - DataPreparation_Phase_(Section_3).ipynb
+  4. EDA Phase
+     - EDA_Phase_(Section_1).ipynb
+     - EDA_Phase_(Section_2).ipynb
+  5. Setup, Modeling And Evaluation Phase
+     - Setup_and_Modeling_and_Evaluation_Phase.ipynb
 
 ## Requirements
 - python3
